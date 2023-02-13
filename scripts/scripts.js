@@ -17,6 +17,21 @@ var mycards = [
         `,
             classes: 'enlarging'
         }
+
+    },
+    {
+        txt: {
+            txt: `•	why civic and political participation is important
+            <br/>
+            •	how specific issues or events motivated the person to act 
+            <br/>
+            •	why the person deserves a national holiday
+            <br/>
+            •	how you and society in general benefit from the person's efforts
+            
+        `,
+            classes: 'enlarging floating'
+        }
     }
 ];
 
